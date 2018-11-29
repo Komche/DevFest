@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DevFest</string>
+    <string name="name">Votre nom please</string>
+    <string name="go">Go</string>
+</resources>
